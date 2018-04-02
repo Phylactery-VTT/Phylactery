@@ -41,7 +41,7 @@ Stub
   - A: Stub
 
 - Q: Can I use this for my commercial product/website without crediting you?
-  - A: Absolutely! There are a few requirements, though. First, this software must retain the MIT license. Second, I am not liable for what this program does or what you do with it. Use it at your own risk.
+  - A: Absolutely! There are a few requirements, though. First, read the [License](LICENSE) and follow any rules contained therein. Second, I am not liable for what this program does or what you do with it. Use it at your own risk.
 
 - Q: Why is this FAQ so short?
   - A: People don't ask many questions.
